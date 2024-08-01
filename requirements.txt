@@ -1,0 +1,9 @@
+bjoern==3.2.2
+bottle==0.12.25
+gevent==24.2.1
+greenlet==3.0.3
+gunicorn==22.0.0
+packaging==24.1
+setuptools==70.3.0
+zope.event==5.0
+zope.interface==6.4.post2
